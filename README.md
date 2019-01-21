@@ -9,8 +9,8 @@ I tested the solution on given input examples and other additional inputs.
 
 
 Test Cases:
-Rule is accepted(inbound, tcp, 80, 19216812)
-Rule is accepted(inbound, udp, 53, 19216821)
-Rule is accepted(outbound, tcp, 10234, 1921681011)
-No such rule present(inbound, tcp, 81, 19216812)
-No such rule present(inbound, udp, 24, 52124892)
+Rule is accepted(inbound, tcp, 80, 19216812).
+Rule is accepted(inbound, udp, 53, 19216821).
+Rule is accepted(outbound, tcp, 10234, 1921681011).
+No such rule present(inbound, tcp, 81, 19216812).
+No such rule present(inbound, udp, 24, 52124892).
